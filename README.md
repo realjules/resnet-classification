@@ -73,7 +73,3 @@ The training process includes:
 - Learning rate scheduling
 - Model checkpointing
 - Validation metrics tracking
-
-## License
-
-This project is licensed under the MIT License.
